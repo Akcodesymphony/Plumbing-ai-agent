@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+google-generativeai
+gspread
+oauth2client
+langgraph
